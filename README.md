@@ -13,7 +13,7 @@ __Stakeholder choice__<br>
     * Stakeholder type: Buyer<br>
     * Stakeholder Description: Invest in poor neighborhood, buying & selling, costs back + little profit, socially responsible.<br>
 <br>
-___Overarching topic focussed on in this analysis:___<br>
+___Idea: Overarching topic focussed on in this analysis:___<br>
 Insights from multi-sale houses in King County as compared to single-sale houses for both: financial and social gain.<br>
 
 ---
