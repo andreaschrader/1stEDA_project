@@ -3,6 +3,7 @@
 # EDAsale-types_detailed_analysis
 
 This repository is my first repository for an EDA project and my first EDA for a stakeholder in a bootcamp in 2022.  
+Thank you to [neuefische](https://www.neuefische.de/en) and all participants for this journey!
 
 In the workflow and assignment (workflow.md, assignment.md), the project and tasks are outlined.  
 The dataset is the well known "King County House Data" and the task included selecting a stakeholder and finding, analysing and extracting information in the data in line with the stakeholders needs and requirements.
