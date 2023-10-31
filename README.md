@@ -26,7 +26,8 @@ __Stakeholder choice__
 
 ___Idea for my analysis:___   
 
-I focussed on sales types. In particular, I eventually gained insights from multi-sale houses in King County as compared to single-sale houses for both: financial and social gain.   
+I focussed on sales types. In particular, I eventually gained insights from multi-sale houses in King County as compared to single-sale houses for both: financial and social gain.    
+
 This matches the stakeholders description as a buyer who is buying houses and aims to get money back plus a little profit from the respective sale in a socially responsible way.  
 
 ---
