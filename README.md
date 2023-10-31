@@ -2,7 +2,7 @@
 
 This repository is my first repository for an EDA project.   
 In the workflow and assignment (workflow.md, assignment.md), the project and tasks are outlined.  
-The dataset is the well known "King County House Data" adn the task included selecting a stakeholder and finding, analysing and extracting information in the data in line with the stakeholders needs and requirements.
+The dataset is the well known "King County House Data" and the task included selecting a stakeholder and finding, analysing and extracting information in the data in line with the stakeholders needs and requirements.
 
 My specific project can be characterized as follows:  
 
@@ -28,7 +28,7 @@ This matches the stakeholders description as a buyer who is buying houses and ai
 ---
 
 The [jupyter notebook](./EDAsale-types_detailed_analysis.ipynb) contains the analysis conducted during this 2 day assignment of a bootcamp.  
-Day 2 included the [presentation](./EDA_project_presentation.pdf)s of participants in front of the respective stakeholder.
+The project ended with [presentation](./EDA_project_presentation.pdf)s of all participants in front of the respective stakeholder.
 
 Before inspecting the jupyter notebook, please make sure that all requirements are fulfilled:
 
