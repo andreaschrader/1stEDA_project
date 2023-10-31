@@ -27,6 +27,7 @@ This matches the stakeholders description as a buyer who is buying houses and ai
 
 ---
 
+[A minimal notebook](./EDA.ipynb) was provided as a template for the assignment. Optional material was not used in this assignment.
 The [jupyter notebook](./EDAsale-types_detailed_analysis.ipynb) contains the analysis conducted during this 2 day assignment of a bootcamp.  
 The project ended with [presentation](./EDA_project_presentation.pdf)s of all participants in front of the respective stakeholder.
 
