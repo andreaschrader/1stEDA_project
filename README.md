@@ -12,19 +12,20 @@ My specific project can be characterized as follows:
 
 # EDA project - Andrea Schrader
 
-__Dataset:__ "King County House Data" on home sales in King County (USA)  
+**Dataset:**
+ "King County House Data" on home sales in King County (USA)  
 The available columns of this dataset are described in column_names.md.  
 
 <br>
 
-__Stakeholder choice__   
+**Stakeholder choice**   
     * Person chosen: Erin Robinson   
     * Stakeholder type: Buyer   
     * Stakeholder Description: Invest in poor neighborhood, buying & selling, costs back + little profit, socially responsible.   
 
 ---  
 
-___Idea for my analysis:___   
+**Idea for my analysis:**   
 
 I focussed on sales types. In particular, I eventually gained insights from multi-sale houses in King County as compared to single-sale houses for both: financial and social gain.    
 
