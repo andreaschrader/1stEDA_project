@@ -69,5 +69,5 @@ $ pip install -r ./requirements.txt
 
 ## ___Enjoy :)___ <br>
 
-*CC-BY 4.0 Andrea Schrader*  
-*For material form the neuefische template see LICENSE.*
+*For all material form the neuefische template see LICENSE.*
+*Work on this assignment: CC-BY 4.0 - Andrea Schrader*  
