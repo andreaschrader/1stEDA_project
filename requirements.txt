@@ -1,4 +1,4 @@
-jupyterlab==3.0.7
+jupyterlab==3.6.7
 matplotlib==3.3.4
 pandas==1.2.2
 plotly==4.14.3
